@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f9b0f&height=260&section=header&text=Sutar%20Kumar&desc=Hackathon%20Journey%20%7C%20Code.%20Compete.%20Win.&descSize=20&fontSize=50&fontColor=00FF00&animation=fadeIn"/>
 
-# 🏆 Hackathon Journey & Achievements  
+# 🏆 Hackathon Journey & Achievements-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hackathons-Portfolio-blue?style=for-the-badge" />
