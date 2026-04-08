@@ -139,15 +139,6 @@ If you find this repository useful or inspiring:
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sutarkumar&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 👀 Visitor Count
 
 <p align="center">
