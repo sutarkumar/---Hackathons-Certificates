@@ -1,3 +1,7 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Hackathon%20Journey&fontSize=40&fontColor=ffffff"/>
+
+
 # 🏆 Hackathon Journey & Achievements  
 
 <p align="center">
@@ -144,10 +148,11 @@ If you find this repository useful or inspiring:
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sutarkumar&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -155,7 +160,7 @@ If you find this repository useful or inspiring:
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sutarkumar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
