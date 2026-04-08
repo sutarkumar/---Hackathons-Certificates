@@ -113,14 +113,6 @@ I actively participate in hackathons to improve my skills, explore new technolog
 
 ---
 
-## ⭐ Support
-If you find this repository useful or inspiring:
-
-👉 Star ⭐ this repo  
-👉 Follow for more projects 🚀  
-
----
-
 <p align="center">
   🔥 <b>Consistency + Hard Work + Innovation = Growth</b> 🔥
 </p>
@@ -164,4 +156,31 @@ If you find this repository useful or inspiring:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=140&section=footer&text=Keep%20Building%20%7C%20Keep%20Learning%20%7C%20Never%20Stop&fontSize=22&fontColor=ffffff"/>
+
+## 💬 Feedback & Connect With Me
+
+I’m always open to feedback, collaboration, and new opportunities.  
+Feel free to connect with me through any of the platforms below 👇  
+
+<p align="center">
+
+  <a href="https://wa.me/919876543210" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sutar-kumar-78963931a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+ <a href="mailto:tusharchaudhary95200@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Let’s connect, collaborate, and build something amazing 🚀</b> ⭐
+</p>
